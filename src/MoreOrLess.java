@@ -50,5 +50,6 @@ public class MoreOrLess {
 				System.out.println("ERROR");
 			}
 		} while (status == '0');
+		sc.close();
 	}
 }
